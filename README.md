@@ -7,7 +7,7 @@ Before start this project, you have to add some Okta's infomations into .env fil
 - your organization URL (without the -admin suffix)
 - API token
 
-##Get Started
+#Get Started
 - yarn install
 - yarnt start
 
